@@ -1,0 +1,809 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:geolocator_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:app_settings] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_headers] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:android_intent] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\761d5aed95183ada80b8d01ca626656b\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\59acd334574e26a7b1429cfac01dfd6f\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e1445def8dc2bea80be311d5c7374634\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\db2ba2a071d8efd260c9e00f9921b759\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dbf7d7e305f6bb008a2352b99bb28cd8\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\07ac4fecddcfbfcb20374fed1f60cac2\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b888aa0abf6bd6c7b8389ce8a9d83d32\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\805be43c963230c0ab2f75115d8e6869\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\1c8f5ad6d8049492c6816eba8ee2bbcc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\126544e93d8e0600947b3c78b6697117\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b8cd3c65346fb101c4bf49084d8aeb71\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\222bf3e0eefd189b7ddeb06a044fbdc5\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e71feb78b660b00a41489751b1693a43\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c8d421ac00390e7739b3174f7503ea81\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d71c2a52f4acad432a80a4d8d3de9711\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d99768c61f49b6e31fbb4c3647aff42d\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\051cf1074e605cdc92b2b7bf1ae87460\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\61b571f99e71a089ea610b11a88e5d36\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\35c6dc704d8ec67ec0355058e4716266\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\83e2589f935f7b2e189531d883618e64\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\064134a9fc73b5b0a076f3fdddadd618\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\65e9ed94ef2e3e224d5c0b5a88185962\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6c01b63444c0963df5777e4b9fa2007a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\66653c290c7ddd74f66188ec55c025c2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\09fe1081d9ff03808b7ce8defb18b73a\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6106adefedc47d4a69209dbba328065d\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\bd6a62a5804f7b28d654bd87b48e3308\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8e418577f934b01a2dafdd5dd58d5e75\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4a4761d12e1c57426defd059d74b88e7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\387f80bbc6b6e7090b883074edb3dc54\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\13cbfffe15c4a1c9d3e0ff2c61064bcd\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\5203dbc66a4153a2a2fc8f8978f39d07\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8cd5b0bcc0e026ccedc12205a6f619da\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\16c8ca73d96650b9467b5d66ad0d83b5\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\76964e481ea02567d4989b10151e89ec\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\68298c16d09f10f56d504d5fbba0bc00\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\febc6fa3c5acf6ad17f7d89cc2eaa1f1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\0c82005f49879363e64f7d7a6369cbb9\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\2c27f326c0c7349f7cef42874b828493\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50641c9a8a061e55216f91a57d79acd5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\69a0873c4dc71655219d4f960a38e7a5\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\aa262d9a58370cd99c76e2a7b57ade76\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e584759ebe79887801f06db60c5cb7f4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6ccb3d604ba5708331bb44669698a9ce\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8f49ac82a1905687b3511e0086128eb3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4b9f2c711c10aee5ddee8741c01c3e67\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\3b3a02700883ca272d560733b5cd485f\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\25f31f33195a59df670e46c016a79f40\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c7dfac8ce86bd2b053c537070f4ee529\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:3:5-79
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:4:6-81
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:4:23-79
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:5:5-95
+	android:required
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:5:68-92
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:5:19-67
+application
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:6:4-48:19
+MERGED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e1445def8dc2bea80be311d5c7374634\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e1445def8dc2bea80be311d5c7374634\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\db2ba2a071d8efd260c9e00f9921b759\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\db2ba2a071d8efd260c9e00f9921b759\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b888aa0abf6bd6c7b8389ce8a9d83d32\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b888aa0abf6bd6c7b8389ce8a9d83d32\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\1c8f5ad6d8049492c6816eba8ee2bbcc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\1c8f5ad6d8049492c6816eba8ee2bbcc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\126544e93d8e0600947b3c78b6697117\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\126544e93d8e0600947b3c78b6697117\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\222bf3e0eefd189b7ddeb06a044fbdc5\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\222bf3e0eefd189b7ddeb06a044fbdc5\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e71feb78b660b00a41489751b1693a43\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e71feb78b660b00a41489751b1693a43\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c8d421ac00390e7739b3174f7503ea81\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c8d421ac00390e7739b3174f7503ea81\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\5203dbc66a4153a2a2fc8f8978f39d07\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\5203dbc66a4153a2a2fc8f8978f39d07\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:25:5-39:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\3b3a02700883ca272d560733b5cd485f\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\3b3a02700883ca272d560733b5cd485f\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:7:9-36
+	android:icon
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:8:9-43
+activity#com.example.base_project_flutter.MainActivity
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:9:9-40:20
+	android:launchMode
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:11:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:15:13-55
+	android:configChanges
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:10:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:21:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:29:13-32:17
+	android:resource
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:31:15-61
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:30:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:44:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:46:13-47:73
+	android:value
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:47:16-71
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml:46:24-69
+uses-sdk
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+MERGED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app_settings] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app_settings] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\google_api_headers\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\761d5aed95183ada80b8d01ca626656b\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\761d5aed95183ada80b8d01ca626656b\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\59acd334574e26a7b1429cfac01dfd6f\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\59acd334574e26a7b1429cfac01dfd6f\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e1445def8dc2bea80be311d5c7374634\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e1445def8dc2bea80be311d5c7374634\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\db2ba2a071d8efd260c9e00f9921b759\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\db2ba2a071d8efd260c9e00f9921b759\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dbf7d7e305f6bb008a2352b99bb28cd8\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dbf7d7e305f6bb008a2352b99bb28cd8\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\07ac4fecddcfbfcb20374fed1f60cac2\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\07ac4fecddcfbfcb20374fed1f60cac2\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b888aa0abf6bd6c7b8389ce8a9d83d32\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b888aa0abf6bd6c7b8389ce8a9d83d32\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\805be43c963230c0ab2f75115d8e6869\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\805be43c963230c0ab2f75115d8e6869\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\1c8f5ad6d8049492c6816eba8ee2bbcc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\1c8f5ad6d8049492c6816eba8ee2bbcc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\126544e93d8e0600947b3c78b6697117\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\126544e93d8e0600947b3c78b6697117\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b8cd3c65346fb101c4bf49084d8aeb71\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\b8cd3c65346fb101c4bf49084d8aeb71\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\222bf3e0eefd189b7ddeb06a044fbdc5\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\222bf3e0eefd189b7ddeb06a044fbdc5\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e71feb78b660b00a41489751b1693a43\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e71feb78b660b00a41489751b1693a43\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c8d421ac00390e7739b3174f7503ea81\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c8d421ac00390e7739b3174f7503ea81\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d71c2a52f4acad432a80a4d8d3de9711\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d71c2a52f4acad432a80a4d8d3de9711\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d99768c61f49b6e31fbb4c3647aff42d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\d99768c61f49b6e31fbb4c3647aff42d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\051cf1074e605cdc92b2b7bf1ae87460\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\051cf1074e605cdc92b2b7bf1ae87460\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\61b571f99e71a089ea610b11a88e5d36\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\61b571f99e71a089ea610b11a88e5d36\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\35c6dc704d8ec67ec0355058e4716266\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\35c6dc704d8ec67ec0355058e4716266\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\83e2589f935f7b2e189531d883618e64\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\83e2589f935f7b2e189531d883618e64\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\064134a9fc73b5b0a076f3fdddadd618\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\064134a9fc73b5b0a076f3fdddadd618\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\65e9ed94ef2e3e224d5c0b5a88185962\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\65e9ed94ef2e3e224d5c0b5a88185962\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6c01b63444c0963df5777e4b9fa2007a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6c01b63444c0963df5777e4b9fa2007a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\66653c290c7ddd74f66188ec55c025c2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\66653c290c7ddd74f66188ec55c025c2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\09fe1081d9ff03808b7ce8defb18b73a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\09fe1081d9ff03808b7ce8defb18b73a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6106adefedc47d4a69209dbba328065d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6106adefedc47d4a69209dbba328065d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\bd6a62a5804f7b28d654bd87b48e3308\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\bd6a62a5804f7b28d654bd87b48e3308\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6a63f4cc4103cbb4519655dea90e7893\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8e418577f934b01a2dafdd5dd58d5e75\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8e418577f934b01a2dafdd5dd58d5e75\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4a4761d12e1c57426defd059d74b88e7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4a4761d12e1c57426defd059d74b88e7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\387f80bbc6b6e7090b883074edb3dc54\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\387f80bbc6b6e7090b883074edb3dc54\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\13cbfffe15c4a1c9d3e0ff2c61064bcd\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\13cbfffe15c4a1c9d3e0ff2c61064bcd\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\5203dbc66a4153a2a2fc8f8978f39d07\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\5203dbc66a4153a2a2fc8f8978f39d07\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8cd5b0bcc0e026ccedc12205a6f619da\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8cd5b0bcc0e026ccedc12205a6f619da\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\16c8ca73d96650b9467b5d66ad0d83b5\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\16c8ca73d96650b9467b5d66ad0d83b5\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\76964e481ea02567d4989b10151e89ec\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\76964e481ea02567d4989b10151e89ec\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\68298c16d09f10f56d504d5fbba0bc00\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\68298c16d09f10f56d504d5fbba0bc00\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\febc6fa3c5acf6ad17f7d89cc2eaa1f1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\febc6fa3c5acf6ad17f7d89cc2eaa1f1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\0c82005f49879363e64f7d7a6369cbb9\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\0c82005f49879363e64f7d7a6369cbb9\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\2c27f326c0c7349f7cef42874b828493\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\2c27f326c0c7349f7cef42874b828493\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50641c9a8a061e55216f91a57d79acd5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50641c9a8a061e55216f91a57d79acd5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\69a0873c4dc71655219d4f960a38e7a5\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\69a0873c4dc71655219d4f960a38e7a5\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\aa262d9a58370cd99c76e2a7b57ade76\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\aa262d9a58370cd99c76e2a7b57ade76\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e584759ebe79887801f06db60c5cb7f4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e584759ebe79887801f06db60c5cb7f4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6ccb3d604ba5708331bb44669698a9ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\6ccb3d604ba5708331bb44669698a9ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8f49ac82a1905687b3511e0086128eb3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\8f49ac82a1905687b3511e0086128eb3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4b9f2c711c10aee5ddee8741c01c3e67\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4b9f2c711c10aee5ddee8741c01c3e67\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\3b3a02700883ca272d560733b5cd485f\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\3b3a02700883ca272d560733b5cd485f\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\25f31f33195a59df670e46c016a79f40\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\25f31f33195a59df670e46c016a79f40\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c7dfac8ce86bd2b053c537070f4ee529\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c7dfac8ce86bd2b053c537070f4ee529\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasedynamiclinks.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_dynamic_links] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:12:17-130
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4b9f2c711c10aee5ddee8741c01c3e67\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4b9f2c711c10aee5ddee8741c01c3e67\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] C:\Users\bhava\OneDrive\Desktop\flutter projects\medical_clone\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4ae8db8808990911ffb0cc1d905648d2\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\c2bcead9730e2ed747e144b80bf0f73c\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\48b18dff93352e368c6a05116e5058d4\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\4c2e2a5ec8d6d123efc52fa57debf269\jetified-firebase-messaging-23.0.4\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\a617d18f47ea013110674bc4149742d7\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:28:17-133
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\211b2dd0d97fc4a811c524cd8b759fa2\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\e38df61882af64a14808f68c7cd1acda\jetified-firebase-datatransport-18.1.3\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\9ff4b747699f341f82c4856d3bc6badc\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\50beed22c29eb2507311b5ab22206fdc\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\677c07c5383260cd69a34fcb2a7d9b4d\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\f48f6fdf536b18508471aa7b4251aca2\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\dce4d32ad0f1d3f0b2b133a3c589c497\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\abf70c578f629b7eb57d05ad8553e702\jetified-transport-backend-cct-3.1.4\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\bhava\.gradle\caches\transforms-2\files-2.1\77a4bd338af0e569847b7ff19439df88\jetified-transport-runtime-3.1.4\AndroidManifest.xml:33:13-132
